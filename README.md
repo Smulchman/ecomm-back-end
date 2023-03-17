@@ -15,7 +15,7 @@ This is an operational server back end without a front end utilizing sequelize, 
 You can view a video of the app in use [here](https://drive.google.com/file/d/1Braq8DG3RbQwyNrnuiCkdj2F3E-Sh4xv/view)
 
 To use this app, you will first need to download the repository to your local machine.\
-Then use npm i in your console to initialize the node modules required.\
+Then use 'npm i' in your console to initialize the node modules required.\
 After that you will need to set your own user information for your MySql server in a .env file. The database is named "ecommerce_db".\
 The database is linked to get, put, post, and delete requests that you can view in the files contained in the 'routes' folder.\
 Make sure you understand what those requests are asking for before you write a front end interaction for them!\
